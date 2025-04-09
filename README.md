@@ -106,12 +106,9 @@ This project is intended for educational and research use only. 📘
 
 ---
 
-## 👩‍💻 Authors
-
-- **Your Name** – Developer & Researcher  
-- 📧 Email: your.email@example.com  
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+### **🧑‍💻 Author**
+👤 **Srisanjana Karunamoorthy**  
+🔗 GitHub: [Sanju-07112001](https://github.com/Sanju-07112001)  
 
 ---
 
-Let me know if you'd like this converted into a downloadable `.md` file or personalized with your name and actual links!
